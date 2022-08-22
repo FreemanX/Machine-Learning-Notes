@@ -19,3 +19,8 @@
 ## Notebook 03 Bias and Variance
 - Bias and variance decomposition
 
+## Notebook 04 Maximum Likelihood Estimation
+- MLE on Normal Distribution
+- Compare biased and unbiased estimators
+
+
