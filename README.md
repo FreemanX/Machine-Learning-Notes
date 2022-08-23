@@ -23,4 +23,5 @@
 - MLE on Normal Distribution
 - Compare biased and unbiased estimators
 
-
+## Notebook 05 Optimization Methods
+- Gradient decent
