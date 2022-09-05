@@ -25,3 +25,4 @@
 
 ## Notebook 05 Optimization Methods
 - Gradient decent
+- Newton's method
