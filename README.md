@@ -27,7 +27,24 @@
 - Gradient decent
 - Newton's method
 
-## Classification     
+## Notebook 06 Classification     
 - Perceptron
 - Logistic Regression
 - Softmax Regression
+
+## Notebook 07 Nonparametric Modeling
+- kNN
+- Decision Tree
+- The curse of dimensionality
+
+## Notebook 08 Ensemble Learning 
+- Bootstrap Aggregation (Bagging)
+- Random Forest Regression
+- Adaptive Boosting (AdaBoost)
+- Gradient Boost
+
+## Notebook 09 Neural Learning
+
+## Notebook 10 Unsupervised Learning
+- PCA
+- k-Means
